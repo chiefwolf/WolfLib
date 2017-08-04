@@ -1,1 +1,3 @@
 # WolfLib
+
+Simple library
