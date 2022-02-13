@@ -1,0 +1,10 @@
+# Folders first
+CMakeFiles/*
+#.vscode/*
+build/*
+
+# Files in root directory
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+WolfLib
